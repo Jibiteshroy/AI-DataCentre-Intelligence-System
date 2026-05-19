@@ -9,7 +9,8 @@ This project is an end-to-end business intelligence pipeline designed to monitor
 * **Business Intelligence:** Power BI (DAX, Data Modeling) for executive-level visualization and predictive risk scoring.
 
 ## 📊 Dashboard 1: Executive Operations Center (NOC)
-*(Insert your dashboard_page1.png here)*
+<img width="1467" height="832" alt="dashboard_page1" src="https://github.com/user-attachments/assets/0a3100ae-1ea3-4478-970d-b1b8aba98388" />
+
 
 **Key Features:**
 * **Global Threat Mapping:** Real-time visibility into revenue bleeding across 6 international facilities.
@@ -17,7 +18,8 @@ This project is an end-to-end business intelligence pipeline designed to monitor
 * **Risk Heatmap:** Matrix visualization isolating exact facilities and failure severities.
 
 ## 🤖 Dashboard 2: Predictive Maintenance & Asset Health
-*(Insert your dashboard_page2.png here)*
+<img width="1466" height="826" alt="dashboard_page2" src="https://github.com/user-attachments/assets/f7e7edc8-f945-439c-b6e8-2d518a84d299" />
+
 
 **Key Features:**
 * **Algorithmic Risk Scoring:** Custom DAX logic penalizes older assets with a history of emergency (reactive) maintenance.
